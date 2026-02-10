@@ -26,12 +26,15 @@ cumputing and i magade my code that are devided into components
 
 What will I do today?
 maybe i will do today is that we will have a hard time to do some codings today just like what sir rammne said yesterday 
-but i will focus to him to what will i do to tha program
+but i will focus to him to what will i do to tha program by making a chatbot ai
 
 What are my blockers?
+difficault to promt and struggling for making a layout for my chatbot ai
+
 
 
 End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/045af100-a63b-4197-8587-312e55a75890" />
 
 
 

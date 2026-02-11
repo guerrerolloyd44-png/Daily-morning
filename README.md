@@ -40,6 +40,36 @@ End-of-day Checkout (Screenshot of the biggest "win")
 
 
 
+Engineering Journal
+Artifact for the 2nd week of Training
+
+Date: 2-11-26
+
+Morning Stand-Up:
+
+What did I do yesterday?
+i did yesterday is we do a basic ui and front end, and we created a layout for our chatbot using figma 
+
+What will I do today?
+i will do today is i will gonna make a code and make it like a chat gpt or like an gemini but the concept is 
+despicable me and about a minion 
+
+
+What are my blockers?
+my blockers are dificault to deploy and risky to do it,
+and i cant help my classmate to finish there tast by my self 
+
+
+
+End-of-day Checkout (Screenshot of the biggest "win")
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/927c03fe-3d60-458d-b836-784a335f0cfb" />
+<img width="388" height="849" alt="image" src="https://github.com/user-attachments/assets/a7fbc07b-3b37-4368-a21f-0b017f0c0af3" />
+<img width="388" height="848" alt="image" src="https://github.com/user-attachments/assets/fa75a589-2e81-43f7-9a2f-151a85e288d0" />
+
+
+
+
+
 
 
 

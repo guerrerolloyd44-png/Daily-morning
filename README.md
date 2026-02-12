@@ -86,10 +86,27 @@ now we will convert the front end into a code and ask a help to a google ai stud
 
 
 What are my blockers?
+my blockers is i cannot find the one problem in the code
 
 
 
-End-of-day Checkout (Screenshot of the biggest "win")
+End-of-day Checkout (Screenshot of the biggest "win
+
+
+<img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/1a4d272f-4063-475c-b386-c78774a80d30" />
+<img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/e33e19bf-8c95-4c68-a3e1-3dce3c315288" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/faaa58ee-ab33-4036-9f4b-4b94a7e6433a" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/fb404cb7-cb3e-4315-ba5f-352deddde86f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/825a21a9-052e-4b5d-90a9-684828644d2a" />
+<img width="387" height="846" alt="image" src="https://github.com/user-attachments/assets/94f1ce69-1d4d-4ce7-8eb1-8cad7a0d9d20" />
+<img width="388" height="846" alt="image" src="https://github.com/user-attachments/assets/6b0175aa-423d-4eb7-9344-1ad9c821a865" />
+<img width="388" height="846" alt="image" src="https://github.com/user-attachments/assets/9b745d84-ae77-4146-adbb-cf5519e7c8e2" />
+<img width="386" height="845" alt="image" src="https://github.com/user-attachments/assets/a28eb612-3fbd-4174-b933-d41426e59668" />
+
+
+
+
+
 
 
 

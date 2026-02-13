@@ -129,7 +129,7 @@ we will gonna report out works, demonstrate it how it works end how it use
 
 
 What are my blockers?
-
+difficault for reporting of our creation 
 
 
 

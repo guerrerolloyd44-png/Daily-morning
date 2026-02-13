@@ -1,7 +1,7 @@
 Engineering Journal
 Artifact for the 2nd week of Training
 
-Date:2-8-26  
+Date:2-9-26  
 
 
 End-of-day Checkout 
@@ -111,7 +111,29 @@ End-of-day Checkout (Screenshot of the biggest "win
 
 
 
+Engineering Journal
+Artifact for the 2nd week of Training
 
+Date: 2-13-26
+Morning Stand-Up:
+
+What did I do yesterday?
+i did yesterday is convert the front end into a code and ask a help to a google ai studio 
+and finalize out chatbot creation (Despicable-AI), besides we had a boodle fight to celebrate the 
+foundation day of olopsc
+
+What will I do today? 
+we will having a reporting by group and judge by the 4th year college students 
+we will gonna report out works, demonstrate it how it works end how it use
+
+
+
+What are my blockers?
+
+
+
+
+End-of-day Checkout Screenshot of the biggest "win
 
 
 
